@@ -34,18 +34,15 @@ PRODUCT_PACKAGES += \
     CallStatistics \
     CarrierServices \
     CNEService \
-    ConnMO \
     DCMO \
     DiagMon \
-    DMService \
     Entitlement \
     GCS \
     HiddenMenu \
     HotwordEnrollmentOKGoogleWCD9330 \
     HotwordEnrollmentTGoogleWCD9330 \
     HotwordEnrollmentXGoogleWCD9330 \
-    qcrilmsgtunnel \
-    SprintDM
+    qcrilmsgtunnel
 
 # Symlinks
 PRODUCT_PACKAGES += \
