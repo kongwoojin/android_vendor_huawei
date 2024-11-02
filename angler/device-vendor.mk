@@ -32,14 +32,12 @@ PRODUCT_PACKAGES += \
     atfwd \
     CarrierSetup \
     CallStatistics \
-    CarrierServices \
     CNEService \
     ConnMO \
     DCMO \
     DiagMon \
     DMService \
     Entitlement \
-    GCS \
     HiddenMenu \
     HotwordEnrollmentOKGoogleWCD9330 \
     HotwordEnrollmentTGoogleWCD9330 \
